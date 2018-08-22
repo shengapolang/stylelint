@@ -1,11 +1,25 @@
 # Head
 
+-   Added: `declaration-bang-space-before` autofix ([#3592](https://github.com/stylelint/stylelint/pull/3592)).
+-   Added: `declaration-colon-newline-after` autofix ([#3588](https://github.com/stylelint/stylelint/pull/3588)).
+-   Added: `function-comma-space-after` autofix ([#3555](https://github.com/stylelint/stylelint/pull/3555)).
+-   Added: `function-comma-space-before` autofix ([#3596](https://github.com/stylelint/stylelint/pull/3596)).
+-   Added: `function-parentheses-space-inside` autofix ([#3563](https://github.com/stylelint/stylelint/pull/3563)).
+-   Added: `no-extra-semicolons` autofix ([#3574](https://github.com/stylelint/stylelint/pull/3574)).
+-   Added: `value-list-comma-space-after` autofix ([#3558](https://github.com/stylelint/stylelint/pull/3558)).
+-   Added: `value-list-comma-space-before` autofix ([#3597](https://github.com/stylelint/stylelint/pull/3597)).
+
+
+# 9.5.0
+
 -   Added: bundled support for styles in CSS-in-JS object literals ([#3506](https://github.com/stylelint/stylelint/pull/3506)).
 -   Added: `--print-config` CLI flag ([#3532](https://github.com/stylelint/stylelint/pull/3532)).
 -   Added: `block-closing-brace-newline-before` autofix ([#3442](https://github.com/stylelint/stylelint/pull/3442)).
 -   Added: `block-opening-brace-newline-before` autofix ([#3518](https://github.com/stylelint/stylelint/pull/3518)).
 -   Added: `block-opening-brace-space-after` autofix ([#3520](https://github.com/stylelint/stylelint/pull/3520)).
 -   Added: `block-opening-brace-newline-after` autofix ([#3441](https://github.com/stylelint/stylelint/pull/3441)).
+-   Added: `declaration-block-semicolon-newline-after` autofix ([#3545](https://github.com/stylelint/stylelint/pull/3545)).
+-   Added: `declaration-block-semicolon-space-before` autofix ([#3554](https://github.com/stylelint/stylelint/pull/3554)).
 -   Added: `declaration-colon-space-after` autofix ([#3538](https://github.com/stylelint/stylelint/pull/3538)).
 -   Added: `selector-list-comma-newline-before` autofix ([#3517](https://github.com/stylelint/stylelint/pull/3517)).
 -   Added: `selector-list-comma-space-after` autofix ([#3490](https://github.com/stylelint/stylelint/pull/3490)).

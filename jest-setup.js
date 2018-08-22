@@ -98,7 +98,7 @@ global.testRule = (rule, schema) => {
 
                   if (!schema.fix) return;
 
-                  if (!testCase.fixed && !testCase.unfixable) {
+                  if (!testCase.fixed && testCase.fixed !== "" && !testCase.unfixable) {
                     throw new Error(
                       "If using { fix: true } in test schema, all reject cases must have { fixed: .. }"
                     );
